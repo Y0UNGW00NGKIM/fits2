@@ -81,4 +81,3 @@ void User_fit(int entries=100000) {
 
   f->Write();
 }
-
